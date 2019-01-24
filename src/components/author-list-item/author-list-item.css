@@ -1,0 +1,9 @@
+.author-list__item {
+        border: 1px solid #000;
+        margin: 1rem;
+        font-size: 2rem;
+        clear: both;
+        float: left;
+        padding: 1rem;
+        cursor: pointer;
+}

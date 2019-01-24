@@ -1,0 +1,50 @@
+{
+        "authors": [
+                {
+                        "id": 1,
+                        "name": "J R R Tolkien",
+                        "books": [
+                                {
+                                        "id": 1,
+                                        "bookName": "Lord of the rings The fellowship of the ring"
+                                },
+                                {
+                                        "id": 2,
+                                        "bookName": "Lord of the rings Two towers"
+                                },
+                                {
+                                        "id": 3,
+                                        "bookName": "Lord of the rings the return of the king"
+                                }
+                        ]
+                },
+                {
+                        "id": 2,
+                        "name": "Elisabeth Hand",
+                        "books": [
+                                {
+                                        "id": 4,
+                                        "bookName": "12 Monkeys"
+                                }
+                        ]
+                },
+                {
+                        "id": 3,
+                        "name": "Liu Cixin",
+                        "books": [
+                                {
+                                        "id": 5,
+                                        "bookName": "El problema de los tres cuerpos"
+                                },
+                                {
+                                        "id": 6,
+                                        "bookName": "El bosque oscuro"
+                                },
+                                {
+                                        "id": 7,
+                                        "bookName": "El fin de la muerte"
+                                }
+                        ]
+                }
+        ]
+}
